@@ -1,0 +1,23 @@
+@import url("https://use.typekit.net/duw1rta.css");
+@import url(https://db.onlinewebfonts.com/c/8ffe55aed043353e544d40e9876e9048?family=Bely+Display);
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&family=Plus+Jakarta+Sans:wght@500&family=Rakkas&display=swap');
+
+
+body{
+    font-family: "Bely Display";
+font-weight: 900;
+font-style: normal;
+}
+
+.header{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 300px;
+    font-family: 'Gilda Display', serif;
+font-family: 'Plus Jakarta Sans', sans-serif;
+font-family: 'Rakkas', serif;
+}
